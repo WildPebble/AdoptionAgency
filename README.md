@@ -1,8 +1,8 @@
 # AdoptionAgency
-Text based simulation of an adoption agency application process.
+A java text based simulation of an adoption agency application process.
 
 # Description
-A text based program meant to simulate an application process for a pet adoption agency
+Application will ask several questions and will print out the best matching pet available. It will also print any other pets that could be possible matches. 
 
 # Getting Started
 ## Dependencies
