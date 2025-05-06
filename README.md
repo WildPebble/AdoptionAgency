@@ -5,7 +5,7 @@ Text based simulation of an adoption agency application process.
 A text based program meant to simulate an application process for a pet adoption agency
 
 # Getting Started
-# # Dependencies
+## Dependencies
 VSCode with Java capability
 
 # Installing
